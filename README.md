@@ -1,14 +1,18 @@
 # CTIS164-Homework-2
 Bilkent University CTIS 164 Second Homework
 
-/*********
-   CTIS164 - Template Source Program
-----------
+
+
+/*
+  
 STUDENT : Nur Sude Var
 SECTION : 1
-HOMEWORK: A game that is occured by hiitting the target by a weapon
+Homework: A game that is occured by hitting the target by a weapon
+
 ----------
+
 PROBLEMS: In the {0,0} point weapon is appeared
+
 ----------
 ADDITIONAL FEATURES:
 -'W': Switches the weapon between Candy or Bomb
